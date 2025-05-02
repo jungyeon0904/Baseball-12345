@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BaseballKATA", "BaseballKATA\BaseballKATA.vcxproj", "{8E0150FE-8F7D-491F-B8D5-B99647EE30F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루션 항목", "{C8D5274F-AC00-46C7-1F8D-E88E81087A52}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E0150FE-8F7D-491F-B8D5-B99647EE30F3}.Debug|x64.ActiveCfg = Debug|x64
+		{8E0150FE-8F7D-491F-B8D5-B99647EE30F3}.Debug|x64.Build.0 = Debug|x64
+		{8E0150FE-8F7D-491F-B8D5-B99647EE30F3}.Debug|x86.ActiveCfg = Debug|Win32
+		{8E0150FE-8F7D-491F-B8D5-B99647EE30F3}.Debug|x86.Build.0 = Debug|Win32
+		{8E0150FE-8F7D-491F-B8D5-B99647EE30F3}.Release|x64.ActiveCfg = Release|x64
+		{8E0150FE-8F7D-491F-B8D5-B99647EE30F3}.Release|x64.Build.0 = Release|x64
+		{8E0150FE-8F7D-491F-B8D5-B99647EE30F3}.Release|x86.ActiveCfg = Release|Win32
+		{8E0150FE-8F7D-491F-B8D5-B99647EE30F3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4AD5280-A9EA-4864-8A1D-2011B8C28668}
+	EndGlobalSection
+EndGlobal
