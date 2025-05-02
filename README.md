@@ -1,3 +1,3 @@
 ### Baseball KATA
 ---
-This is baseball KATA
+This is baseball KATA.
